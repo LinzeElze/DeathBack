@@ -1,0 +1,13 @@
+name: DeathBack
+version: '1.0'
+main: com.LinzeElze.DeathBack
+api-version: '1.21.11'
+author: LinzeElze
+commands:
+  deathback:
+    description: 返回死亡地點或重載插件 || Return to the location of death or reload the plugin
+    usage: /deathback [reload]
+permissions:
+  deathback.admin:
+    description: 允許使用 /deathback reload || Allow the use of /deathback reload
+    default: op

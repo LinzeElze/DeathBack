@@ -1,0 +1,8 @@
+death_message: "§c☠ You died at: §f%coords%"
+click_button: "§6§l[Click to Teleport Back]"
+hover_text: "§7Click to teleport (One-time only)"
+teleport_success: "§a✔ Successfully returned to death location."
+no_record: "§e❌ No death record found or already used."
+only_player: "§cOnly players can use this command."
+no_permission: "§cYou do not have permission to do this."
+reload_success: "§a✔ DeathBack configuration and languages reloaded!"

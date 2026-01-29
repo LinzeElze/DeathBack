@@ -1,0 +1,8 @@
+death_message: "§c☠ 你死亡了！地點: §f%coords%"
+click_button: "§6§l[點我返回死亡地點]"
+hover_text: "§7點擊傳送 (限一次)"
+teleport_success: "§a✔ 已成功回到死亡地點，紀錄已清除。"
+no_record: "§e❌ 你沒有可返回的紀錄，或你已經回去過了。"
+only_player: "§c只有玩家可以使用此指令。"
+no_permission: "§c你沒有權限執行此指令。"
+reload_success: "§a✔ DeathBack 設定檔與語言檔已重新載入！"
