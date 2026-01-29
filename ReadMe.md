@@ -53,7 +53,7 @@ The plugin will automatically generate the config.yml and a languages folder con
 (Optional) Customize the messages in the languages folder and run /deathback reload to apply changes.
 
 🏗 Development Specs
-API: Paper-API 1.21.1-R0.1-SNAPSHOT
+API: Paper-API 1.21.11-R0.1-SNAPSHOT
 
 Java Version: Java 21
 
