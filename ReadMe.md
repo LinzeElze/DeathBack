@@ -9,6 +9,8 @@ DeathBack is a lightweight and efficient utility plugin for Minecraft servers. W
 * **Multi-Language Support**: Fully localized messages stored in a dedicated directory.
 * **Hot Reload**: Update settings and translations on-the-fly without restarting the server.
 
+**Minecraft Version 1.21.11**
+
 ---
 
 ## 🛠 Commands & Permissions
